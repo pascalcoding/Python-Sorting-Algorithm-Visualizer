@@ -55,8 +55,6 @@ insertion_sort_button = Button(BLACK, 130, 35, 120, 25, "Inersertion sort")
 
 array = []
 states = []
-
-
 #0 - changing state
 #1 - normal state
 #2 - solved state
